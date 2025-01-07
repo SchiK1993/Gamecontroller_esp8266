@@ -1,6 +1,6 @@
 /*
  * -----------------------------------------------------------------------------
- * Titel        : Schnuppertage Controller 2024
+ * Titel        : Gamecontroller Controller 2024
  * Entwickler   : Kevin Schiechtl
  * Jahr         : 2024
  * Beschreibung : 
